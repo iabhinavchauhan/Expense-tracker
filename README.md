@@ -27,13 +27,6 @@ A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript. I
 4. Add the expense.
 5. The expense is added dynamically and the total amount is updated.
 
-## Project Structure
-
-```text
-Expense-tracker/
-│
-├── index.html
-```
 
 ## Getting Started
 
