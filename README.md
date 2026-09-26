@@ -36,8 +36,6 @@ Clone the repository:
 git clone https://github.com/iabhinavchauhan/Expense-tracker.git
 ```
 
-Open the project folder and run `index.html` in your browser.
-
 ## Purpose
 
 This project was built to practice core frontend development concepts including DOM manipulation, event handling, form inputs, dynamic content rendering, and basic JavaScript logic.
