@@ -12,7 +12,6 @@ A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript. I
 * Enter expense title and amount
 * Select expense category
 * Display total expenses
-* Simple and responsive user interface
 
 ## Technologies Used
 
